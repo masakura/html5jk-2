@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "html5jk 勉強会 #2 開発者ツール特集",
+    "packageVersion": "0.0.0",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "masakura",
+    "githubRepository": "html5jk-2"
+  }
+}
