@@ -1,0 +1,6 @@
+## 今日は...
+今日は Chrome の [DevTools](https://developer.chrome.com/devtools) を使って機能を紹介します。
+
+他のブラウザーでも同じことができると思います。
+
+多分ですけど...
