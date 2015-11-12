@@ -1,6 +1,5 @@
-## デバイスモード
- * `Ctrl + Shift + m` で[デバイスモード](https://developer.chrome.com/devtools/docs/device-mode)
-   - モバイル版の Chrome と同じような感じになる
-   - 機種を選んだりできる
-   - 解像度変える
-   - デバイスセンサーのエミュレート
+## リソースパネル
+ * [IndexDB](https://developer.chrome.com/devtools/docs/resource-panel#indexeddb)
+ * [Cookie](https://developer.chrome.com/devtools/docs/resource-panel#cookies)
+ * [Application Cahe](https://developer.chrome.com/devtools/docs/resource-panel#application-cache)
+ * [ローカルストレージ & セッションストレージ](https://developer.chrome.com/devtools/docs/resource-panel#local-and-session-storage)
