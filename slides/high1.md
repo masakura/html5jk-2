@@ -1,4 +1,4 @@
-## もうちょっと!
+## パフォーマンスチューニング
  * [タイムライン](https://developer.chrome.com/devtools/docs/timeline#timeline-panel-overview)
    - 描画に時間がかかっているところを探す
  * [プロファイリング](https://developer.chrome.com/devtools/docs/cpu-profiling#cpu-profiles)
